@@ -1,8 +1,10 @@
 # from functions import get_todos, write_todos
 from modules import functions
 import time
+day = time.strftime("%b %d, %Y")
+now = time.strftime("%H:%M:%S")
 print("                                        ")
-now = time.strftime("%H:%M:%S on %b %d, %Y")
+print("The date is:", day)
 print("The time is now:", now)
 print("                                        ")
 print(" *  **  **  *** ********* ***  **  **  *")
