@@ -2,8 +2,8 @@
 from modules import functions
 import time
 print("                                        ")
-now = time.strftime("%b %d, %Y %H:%M:%S")
-print("     It is", now)
+now = time.strftime("%H:%M:%S on %b %d, %Y")
+print("The time is now:", now)
 print("                                        ")
 print(" *  **  **  *** ********* ***  **  **  *")
 print(" *  **  **  *** ToDo List ***  **  **  *")
