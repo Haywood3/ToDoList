@@ -1,5 +1,5 @@
 from modules import functions
-import FreeSimpleGUI as sg
+import PySimpleGUI as sg
 
 label = sg.Text("Type in a To-Do")
 input_box = sg.InputText(tooltip="Enter To-Do")
