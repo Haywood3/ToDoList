@@ -11,3 +11,4 @@ Go to bakery
 Make Lunch
 Fix Python
 watch tv
+take off socks

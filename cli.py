@@ -1,6 +1,6 @@
 # from functions import get_todos, write_todos
-from modules import functions
 import time
+import functions
 
 print("                                        ")
 now = time.strftime("%H:%M:%S, %b %d, %Y")
