@@ -9,3 +9,5 @@ clean the code
 fix the toilet
 Go to bakery
 Make Lunch
+Fix Python
+watch tv
