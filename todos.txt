@@ -1,12 +1,10 @@
-make the bed
-make breakfast
+make the bed 
+make breakfast 
 take shower
 get dressed
 brush teeth 
-Go to bakery
-Make Lunch
 Fix Python
-watch tv
 take off socks
 take off shoes
 take off hat
+make new shoes
